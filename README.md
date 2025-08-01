@@ -11,3 +11,19 @@
 - 🎭 **スムーズアニメーション** - 順次表示アニメーションとホバー効果
 - 📋 **リンクコピー機能** - プロフィールリンクをワンクリックでコピー
 - 🎯 **SEO対応** - メタタグとアクセシビリティに配慮
+- **編集のしやすさ** - constでリンクを提議することで、今後の保守が簡単！
+
+## 📖 Overview
+
+This project is a profile site that displays personal social media accounts, websites, and contact information in one place. It offers features similar to link.it and Linktree, providing visitors with a wonderful experience through its modern design and smooth animations.
+
+## ✨ Features
+
+- 🎨 **Modern Design** - Beautiful gradients and animations using Tailwind CSS
+- 🌙 **Dark Mode Support** - Switch between light and dark themes
+- 📱 **Responsive Design** - Fully compatible with mobile, tablet, and desktop devices
+- ⚡ **Fast Loading** - Optimized performance using Vite + React
+- 🎭 **Smooth animations** - Sequential display animations and hover effects
+- 📋 **Link copy feature** - Copy profile links with a single click
+- 🎯 **SEO-friendly** - Consideration for meta tags and accessibility
+- **Easy to edit** - Suggest links using const for easy maintenance in the future!
