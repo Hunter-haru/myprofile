@@ -1,0 +1,28 @@
+/* プロフィールサイト用のカスタムスタイル */
+
+/* ホバー効果の改善 */
+.social-link {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.social-link:hover {
+  transform: translateY(-2px) scale(1.02);
+}
+
+/* プロフィール写真のホバー効果 */
+.profile-avatar {
+  transition: transform 0.3s ease;
+}
+
+.profile-avatar:hover {
+  transform: scale(1.05);
+}
+
+/* テーマ切り替えボタンのアニメーション */
+.theme-toggle {
+  transition: all 0.3s ease;
+}
+
+.theme-toggle:hover {
+  transform: rotate(20deg) scale(1.1);
+}
